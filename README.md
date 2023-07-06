@@ -1,6 +1,8 @@
 # Organo
 
-Este é um projeto desenvolvido durante o curso "React" da Alura, no qual foram explorados conhecimentos aprofundados sobre o desenvolvimento com essa popular framework JavaScript. Durante o curso, os participantes têm a oportunidade de aprender a aproveitar as vantagens do React, como eficiência e reutilização de componentes, para o desenvolvimento de aplicações modernas e responsivas. Além disso, o curso aborda os seguintes tópicos:
+Este é um projeto desenvolvido durante o curso "React: desenvolvendo com JavaScript" da Alura. (14 horas, Concluído)
+
+No curso foram explorados conhecimentos aprofundados sobre o desenvolvimento com essa popular framework JavaScript. Durante o curso, os participantes têm a oportunidade de aprender a aproveitar as vantagens do React, como eficiência e reutilização de componentes, para o desenvolvimento de aplicações modernas e responsivas. Além disso, o curso aborda os seguintes tópicos:
 
 - Criação de componentes reativos utilizando React.
 - Análise e tratamento de mensagens de erro.
