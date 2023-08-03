@@ -10,7 +10,7 @@ No curso foram explorados conhecimentos aprofundados sobre o desenvolvimento com
 - Prototipagem de uma aplicação do zero até o deploy.
 - Garantia de uma experiência completa no desenvolvimento com React.
 
-**[Acesse aqui o Organo pelo Vercel](https://alura-organo-rho.vercel.app/)**
+**[Acesse aqui o Organo pelo Vercel](https://organo-aug.vercel.app/)**
 
 ## Como clonar o repositório
 
